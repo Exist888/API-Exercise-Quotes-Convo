@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PTNr61sPfoTh1cR6hDeFoVW0LkzBdQZx7/gF+atGWx3deS/+7B//fzbGuyNF5TxBwxgSPvUp7WAPEZu6evJeiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\filip\\OneDrive\\Desktop\\Repos\\APIExercise-Quotes-Convo-2\\APIExercise-Quotes-Convo-2\\APIExercise-Quotes-Convo-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\filip\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
